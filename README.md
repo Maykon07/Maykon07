@@ -24,17 +24,20 @@
 ---
 
  ### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=red)&nbsp;
-![C#](https://img.shields.io/badge/-C_Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple)&nbsp;
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=green)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=blue)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)&nbsp;
+![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=green)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=red)
+
 
 ---
 
 ### Studying in this moment:
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=blue)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=green)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=red)
 
 ---
 
